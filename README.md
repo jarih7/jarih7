@@ -6,7 +6,7 @@ I'm an Apple and all-around IT enthusiast. I studied web and software engineerin
 
 For my bachelor's thesis, I created [grades-sdk](https://www.npmjs.com/package/grades-sdk), a Node.js package that provides simple way of communication with [Grades](https://grades.fit.cvut.cz) – application used at FIT CTU for storage and management of data regarding the courses and the students – to any Node.js application via Grades' REST API.
 
-I have recently peeked into the world of iOS app development. My first attempts have so far resulted in an app called [koin](https://github.com/jarih7/koin). It is a work in progress with the intention of gaining some experience and getting to know the SDK.
+I have recently peeked into the world of iOS app development. My first attempts have so far resulted in an app called [koin](https://github.com/jarih7/koin) (not on the AppStore). It is a work in progress with the intention of gaining some experience and getting to know the SDK.
 
 📧 The best way to reach me is via e-mail at [hampejsjaroslav@icloud.com](mailto:hampejsjaroslav@icloud.com).
 
