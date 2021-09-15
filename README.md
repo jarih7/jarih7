@@ -4,7 +4,7 @@
 
 I'm an Apple and all-around IT enthusiast. I studied web and software engineering at [FIT CTU](https://fit.cvut.cz/en). The studies have helped me discover the vast array of domains hidden behind the term "IT". I'm currently interested in web backend development and native app development 📱 for iOS.
 
-For my bachelor's thesis, I created [grades-sdk](https://www.npmjs.com/package/grades-sdk), a Node.js package that provides simple way of communication with [Grades](https://grades.fit.cvut.cz) – application used at FIT CTU for storage and management of data regarding the courses and the students – to any Node.js application via Grades' REST API.
+For my [bachelor's thesis](https://dspace.cvut.cz/handle/10467/95126), I created [grades-sdk](https://www.npmjs.com/package/grades-sdk), a Node.js package that provides simple way of communication with [Grades](https://grades.fit.cvut.cz) – application used at FIT CTU for storage and management of data regarding the courses and the students – to any Node.js application via Grades' REST API.
 
 Other experience with web development includes a SW engineering course at FIT CTU during which I led a 4-person team and together we learned how the development process could look like. We created a restaurant management system that ran on the Symfony framework, for persistence we used Doctrine and MariaDB, frontend was created using Twig.
 
