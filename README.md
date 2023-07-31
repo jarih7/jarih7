@@ -1,7 +1,7 @@
 ### Hi, my name is Jára 👋
 <pre>
 🎓 graduated with a bachelor's degree in web and software engineering at <a href="https://fit.cvut.cz/en">FIT CTU</a>
-👨🏻‍💻 Apple and all-around IT enthusiast
+👨🏻‍💻 all-around IT enthusiast
 📱 currently interested in web full-stack and mobile development
 </pre>
 
