@@ -5,7 +5,7 @@
 📱 currently interested in web full-stack and mobile development
 </pre>
 
-Mail me at [hampejsjaroslav@icloud.com](mailto:hampejsjaroslav@gmail.com)
+Mail me at [hampejsjaroslav@gmail.com](mailto:hampejsjaroslav@gmail.com)
 
 🔗 **Things I did**
 * [grades-sdk](https://www.npmjs.com/package/grades-sdk): grading app API (npm module), see my [bachelor's thesis](https://dspace.cvut.cz/handle/10467/95126), see [repo](https://github.com/jarih7/grades-sdk)
