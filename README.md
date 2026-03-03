@@ -2,7 +2,7 @@
 <pre>
 🎓 graduated with a bachelor's degree in web and software engineering at <a href="https://fit.cvut.cz/en">FIT CTU</a>
 👨🏻‍💻 all-around IT enthusiast
-📱 currently interested in web full-stack and mobile development
+📱 currently interested in Next.js and iOS development
 </pre>
 
 Mail me at [hampejsjaroslav@gmail.com](mailto:hampejsjaroslav@gmail.com)
@@ -12,12 +12,13 @@ Mail me at [hampejsjaroslav@gmail.com](mailto:hampejsjaroslav@gmail.com)
 * [koin](https://github.com/jarih7/koin): finance manager (iOS), see [repo](https://github.com/jarih7/koin)
 * [iSpendJS](https://github.com/jarih7/iSpendJS): yet another finance manager (web), see [repo](https://github.com/jarih7/iSpend)
 * worked on a project regarding logistics and finances for TechFides startup
+* [VeggieMap](https://github.com/jarih7/veggieMap) Dhaba restaurant review app
+* [NeonGlide](https://github.com/jarih7/neonglide) SpriteKit retro pixel-art runner game
 
 📚 **Things I use**
 ```
-TypeScript - Vue - Node.js - AWS - Docker
-Swift - iOS SDK - XCode
-PHP - Symfony - Doctrine - Twig
+TypeScript - Next.js - Docker - AWS
+SwiftUI - XCode
 ```
 
 <!---
